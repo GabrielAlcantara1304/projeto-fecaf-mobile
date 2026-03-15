@@ -256,9 +256,6 @@ projeto mobile fecaf/
     - Tela de Lista – aba Masculino,
     - Tela de Lista – aba Feminino,
     - Tela de Detalhes do Produto,
-    - (Opcional) Tela com botão de Logout.
   - Cada print com uma breve explicação da funcionalidade exibida.
-
-Ambos os PDFs podem ser adicionados ao repositório (por exemplo, em uma pasta `docs/`) e também enviados na plataforma indicada pelo professor, junto com o link do GitHub.
 
 ---
