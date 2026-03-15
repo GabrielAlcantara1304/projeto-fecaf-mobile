@@ -209,7 +209,7 @@ projeto mobile fecaf/
 1. **Clonar o repositório**
 
    ```bash
-   git clone https://github.com/SEU_USUARIO/projeto-fecaf-mobile.git
+   git clone https://github.com/GabrielAlcantara1304/projeto-fecaf-mobile.git
    ```
 
 2. **Entrar na pasta do projeto**
@@ -262,4 +262,3 @@ projeto mobile fecaf/
 Ambos os PDFs podem ser adicionados ao repositório (por exemplo, em uma pasta `docs/`) e também enviados na plataforma indicada pelo professor, junto com o link do GitHub.
 
 ---
-
